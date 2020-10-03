@@ -1,2 +1,2 @@
-# hackerrank # hacke rrank
+# hackerrank # hacker rank
 hackerrank problem solutions
